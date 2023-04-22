@@ -1,0 +1,8 @@
+F:\c#_Projects\C#_Struct\C#_Struct\bin\Debug\C#_Struct.exe.config
+F:\c#_Projects\C#_Struct\C#_Struct\bin\Debug\C#_Struct.exe
+F:\c#_Projects\C#_Struct\C#_Struct\bin\Debug\C#_Struct.pdb
+F:\c#_Projects\C#_Struct\C#_Struct\obj\Debug\C#_Struct.csproj.AssemblyReference.cache
+F:\c#_Projects\C#_Struct\C#_Struct\obj\Debug\C#_Struct.csproj.SuggestedBindingRedirects.cache
+F:\c#_Projects\C#_Struct\C#_Struct\obj\Debug\C#_Struct.csproj.CoreCompileInputs.cache
+F:\c#_Projects\C#_Struct\C#_Struct\obj\Debug\C#_Struct.exe
+F:\c#_Projects\C#_Struct\C#_Struct\obj\Debug\C#_Struct.pdb

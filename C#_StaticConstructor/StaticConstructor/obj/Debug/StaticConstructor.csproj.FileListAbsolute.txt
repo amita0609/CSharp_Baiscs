@@ -1,0 +1,8 @@
+F:\c#_Projects\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe.config
+F:\c#_Projects\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe
+F:\c#_Projects\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.pdb
+F:\c#_Projects\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.csproj.AssemblyReference.cache
+F:\c#_Projects\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.csproj.SuggestedBindingRedirects.cache
+F:\c#_Projects\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.csproj.CoreCompileInputs.cache
+F:\c#_Projects\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.exe
+F:\c#_Projects\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.pdb
