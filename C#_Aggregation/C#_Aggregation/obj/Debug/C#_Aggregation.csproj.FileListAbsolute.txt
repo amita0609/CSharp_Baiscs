@@ -1,0 +1,8 @@
+F:\c#_Projects\C#_Aggregation\C#_Aggregation\bin\Debug\C#_Aggregation.exe.config
+F:\c#_Projects\C#_Aggregation\C#_Aggregation\bin\Debug\C#_Aggregation.exe
+F:\c#_Projects\C#_Aggregation\C#_Aggregation\bin\Debug\C#_Aggregation.pdb
+F:\c#_Projects\C#_Aggregation\C#_Aggregation\obj\Debug\C#_Aggregation.csproj.AssemblyReference.cache
+F:\c#_Projects\C#_Aggregation\C#_Aggregation\obj\Debug\C#_Aggregation.csproj.SuggestedBindingRedirects.cache
+F:\c#_Projects\C#_Aggregation\C#_Aggregation\obj\Debug\C#_Aggregation.csproj.CoreCompileInputs.cache
+F:\c#_Projects\C#_Aggregation\C#_Aggregation\obj\Debug\C#_Aggregation.exe
+F:\c#_Projects\C#_Aggregation\C#_Aggregation\obj\Debug\C#_Aggregation.pdb
